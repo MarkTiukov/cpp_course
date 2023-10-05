@@ -10,7 +10,7 @@
 
 ## Props
 
-Курс вдохновлялся [курсом Ильи Мещерина](https://www.youtube.com/channel/UCGlYKd-FR4g0Tp4wF6_wxig) и [курсом Дани Гагаринова](https://gitlab.com/yaishenka/cpp_course/-/tree/main)
+Курс вдохновлялся [курсом Ильи Мещерина](https://www.youtube.com/channel/UCGlYKd-FR4g0Tp4wF6_wxig) и [курсом Дани Гагаринова](https://gitlab.com/yaishenka/cpp_course/-/tree/2022_2023)
 
 ## Контакты лектора
 
