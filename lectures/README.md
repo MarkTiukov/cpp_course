@@ -7,4 +7,8 @@
 1. [Лекция 3: Основные типы и операции над ними](lecture_03.md)
 1. [Лекция 4: Expressions and operators](lecture_04.md)
 1. [Лекция 5: Control statements and kinds of errors](lecture_05.md)
+<<<<<<< HEAD
 1. [Лекция 6: Pointers and kinds of memory](lecture_06.md)
+=======
+1. [Лекция 6:](lecture_06.md)
+>>>>>>> b23c008 (lecture 6 draft)
