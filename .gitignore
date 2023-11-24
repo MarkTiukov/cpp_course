@@ -6,3 +6,6 @@ trash/
 
 # vscode
 .vscode
+
+# examples
+examples/
