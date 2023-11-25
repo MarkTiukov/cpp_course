@@ -1,3 +1,11 @@
 # MacOS
 .DS_Store
+
+# testing
 trash/
+
+# vscode
+.vscode
+
+# examples
+examples/
