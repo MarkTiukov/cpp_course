@@ -10,4 +10,5 @@
 1. [Лекция 6: Pointers and kinds of memory](lecture_06.md)
 1. [Лекция 7: Arrays](lecture_07.md)
 1. [Лекция 8: Functions](lecture_08.md)
-1. [Лекция 9: References, constants](lecture_09.md)
+1. [Лекция 9: References, constants, function arguments](lecture_09.md)
+1. [Лекция 10: casts + OOP (beginning)](lecture_10.md)
