@@ -8,3 +8,5 @@
 1. [Лекция 4: Expressions and operators, control statements](lecture_04.md)
 1. [Лекция 5: Exceptions, Pointers](lecture_05.md)
 1. [Лекция 6: Pointers, memory](lecture_06.md)
+1. [Лекция 7:](lecture_07.md)
+1. [Лекция 8:](lecture_08.md)
