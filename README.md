@@ -8,6 +8,8 @@
 
 * [Заметки с лекций](lectures/)
 * [Как и куда сдавать задачи](how_to_submit_hw.md)
+* [Как получить оценку за осенний семестр](exams/fall_rules.md)
+* [Программа осеннего семестра](exams/fall_program.md)
 
 ## Props
 
