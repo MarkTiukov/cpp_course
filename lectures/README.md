@@ -12,3 +12,4 @@
 1. [Лекция 8: References, constants](lecture_08.md)
 1. [Лекция 9: Casts, basics of OOP](lecture_09.md)
 1. [Лекция 10: Classes and structures](lecture_10.md)
+1. [Лекция 11: ](lecture_11.md)
